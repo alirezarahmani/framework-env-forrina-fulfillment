@@ -1,0 +1,25 @@
+{
+  "name": "forrina/framework-env-forrina-fulfillment",
+  "description": "Fulfillment environment",
+  "homepage": "https://github.com/alirezarahmani/framework-env-forrina-fulfillment",
+  "require": {
+    "forrina/framework-forrina-fulfillment": "dev-master"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/alirezarahmani/framework"
+    }, {
+      "type": "vcs",
+      "url": "https://github.com/alirezarahmani/framework-admin"
+    }, {
+      "type": "vcs",
+      "url": "https://github.com/alirezarahmani/framework-forrina-fulfillment"
+    }, {
+      "type": "vcs",
+      "url": "https://github.com/alirezarahmani/framework-forrina-api"
+    }
+  ]
+}
